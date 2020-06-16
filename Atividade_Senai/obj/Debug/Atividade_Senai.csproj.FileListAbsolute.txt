@@ -1,0 +1,13 @@
+C:\Users\marqu\source\repos\Atividade_Senai\bin\Debug\Atividade_Senai.exe.config
+C:\Users\marqu\source\repos\Atividade_Senai\bin\Debug\Atividade_Senai.exe
+C:\Users\marqu\source\repos\Atividade_Senai\bin\Debug\Atividade_Senai.pdb
+C:\Users\marqu\source\repos\Atividade_Senai\obj\Debug\Atividade_Senai.csprojAssemblyReference.cache
+C:\Users\marqu\source\repos\Atividade_Senai\obj\Debug\Atividade_Senai.frmLogin.resources
+C:\Users\marqu\source\repos\Atividade_Senai\obj\Debug\Atividade_Senai.Properties.Resources.resources
+C:\Users\marqu\source\repos\Atividade_Senai\obj\Debug\Atividade_Senai.csproj.GenerateResource.cache
+C:\Users\marqu\source\repos\Atividade_Senai\obj\Debug\Atividade_Senai.csproj.CoreCompileInputs.cache
+C:\Users\marqu\source\repos\Atividade_Senai\obj\Debug\Atividade_Senai.exe
+C:\Users\marqu\source\repos\Atividade_Senai\obj\Debug\Atividade_Senai.pdb
+C:\Users\marqu\source\repos\Atividade_Senai\obj\Debug\Atividade_Senai.frmCadastro.resources
+C:\Users\marqu\source\repos\Atividade_Senai\obj\Debug\Atividade_Senai.frmListaUsuario.resources
+C:\Users\marqu\source\repos\Atividade_Senai\obj\Debug\Atividade_Senai.frmTelaPrincipal.resources
